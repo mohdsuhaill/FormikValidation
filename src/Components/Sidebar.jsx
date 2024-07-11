@@ -28,7 +28,7 @@ const Sidebar = () => {
           <Link className="nav-link" to="/manage">
             <span>
               <i className="fas fa-fw fa-cog" />
-              Manage
+              Manage Library
             </span>
           </Link>
         </li>

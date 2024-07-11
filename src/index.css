@@ -24,3 +24,7 @@
 span {
   color: #000 !important;
 }
+
+table {
+  border:solid #000000;
+}

@@ -20,7 +20,7 @@ const Home = () => {
       <Container className="container">
         <Row className="row-cols-1 row-cols-md-3">
           <Col className="col-12 col-md-12">
-            <h1>Books details</h1>
+            <h1>Book Details</h1>
             <Table className="table table-hover">
               <thead>
                 <tr>
@@ -45,7 +45,7 @@ const Home = () => {
             </Table>
             <br />
             <hr />
-            <h1>Author's Details</h1>
+            <h1>Author Details</h1>
             <Table className="table table-hover">
               <thead>
                 <tr>
