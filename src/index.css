@@ -1,0 +1,26 @@
+.title {
+  color: red;
+}
+.sidebar-brand{
+  color: red !important;
+  text-decoration: none !important;
+}
+.sidebar{
+    background-color:rgb(140, 183, 210);
+   color: rgb(241, 232, 232) !important;
+   margin: 5px;
+   border-radius: 10px;
+}
+.footer{
+  color: white;
+}
+.error_message{
+  color: red;
+
+}
+.form{
+   width: 500px;
+}
+span {
+  color: #000 !important;
+}
